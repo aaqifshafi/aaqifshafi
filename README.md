@@ -109,3 +109,23 @@
   
 
 <br/>  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aaqifshafi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqifshafi&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n948l6ruajibkcauk658idu5t&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=aaqifshafi&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
