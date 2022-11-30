@@ -1,9 +1,14 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<h3 align="center">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Aaqif!
+</h3>
   
 
-### <div align="center">I'm Aaqif, a full-time Front-End freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm a full-time Front-End freelance developer 👨‍💻 and an aspiring Full Stack developer always learning new things to be better everyday 🚀</div>  
   
 
 - 🔭 I’m currently working on my [Weather-App](https://aaqifshafi.github.io/Weather-App/)  
@@ -146,5 +151,3 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
