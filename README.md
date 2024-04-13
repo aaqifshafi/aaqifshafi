@@ -11,7 +11,7 @@
 ### <div align="center">A full-time Front-End freelance developer 👨‍💻 and an aspiring Full Stack developer always learning new things to be better everyday 🚀</div>  
   
 
-- 🔭 I’m currently working on my [Weather-App](https://aaqifshafi.github.io/Weather-App/)  
+- 🔭 I’m currently working on my [Colleg Major Project](https://github.com/aaqifshafi/G-CET)  
   
 
 - 🌱 I’m currently learning to become a Full Stack Developer.  
