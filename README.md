@@ -8,7 +8,7 @@
 </h1>
   
 
-### <div align="center">A full-time Front-End freelance developer 👨‍💻 and an aspiring Full Stack developer always learning new things to be better everyday 🚀</div>  
+### <div align="center">A full-time Full Stack Software Developer 👨‍💻 always learning new things to be better everyday 🚀</div>  
   
 
 - 🔭 I’m currently working on my [College Major Project](https://github.com/aaqifshafi/G-CET)  
