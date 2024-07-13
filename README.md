@@ -11,10 +11,10 @@
 ### <div align="center">A full-time Full Stack Software Developer 👨‍💻 always learning new things to be better everyday 🚀</div>  
   
 
-- 🔭 I’m currently working on my [College Major Project](https://github.com/aaqifshafi/G-CET)  
+- 🔭 I’m currently working on my [Bus App](https://github.com/aaqifshafi/Bus-Tracking-App)  
   
 
-- 🌱 I’m currently learning Framer.  
+- 🌱 I’m currently learning DevOps.  
   
 
 - ❓ Ask me about anything related to Front-End and related technologies  
