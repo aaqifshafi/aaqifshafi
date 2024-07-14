@@ -37,11 +37,6 @@ Figma | Adobe (Photoshop, Illustrator, XD, Premiere Pro) | WordPress | WooCommer
 
 ---
 
-## Professional Experience
-
-[You can add a brief description of your work experience or notable projects here]
-
----
 
 ## GitHub Statistics
 
