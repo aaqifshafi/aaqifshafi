@@ -14,7 +14,7 @@
 
 I'm a dedicated Full Stack Software Developer with a passion for creating efficient, scalable, and user-friendly applications. My expertise spans both front-end and back-end technologies, and I'm always eager to expand my skill set.
 
-- 🔭 Currently developing: [Bus Tracking App](https://github.com/aaqifshafi/Bus-Tracking-App)
+- 🔭 Currently developing: [Chat with PDF](https://github.com/aaqifshafi/chat-with-pdf)
 - 🌱 Learning: DevOps methodologies and practices
 - 💬 Open to discussions on: Front-End technologies and best practices
 - ⚡ Coding philosophy: Tabs over spaces
