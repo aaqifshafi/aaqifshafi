@@ -16,7 +16,7 @@ I'm a dedicated Full Stack Software Developer with a passion for creating effici
 
 - 🔭 Currently developing: [Chat with PDF](https://github.com/aaqifshafi/chat-with-pdf)
 - 🌱 Learning: DevOps methodologies and practices
-- 💬 Open to discussions on: Front-End technologies and best practices
+- 💬 Open to discussions on: Web3 technologies and AI
 - ⚡ Coding philosophy: Tabs over spaces
 
 ---
