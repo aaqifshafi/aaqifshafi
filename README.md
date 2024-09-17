@@ -14,7 +14,7 @@
 
 I'm a dedicated Full Stack Software Developer with a passion for creating efficient, scalable, and user-friendly applications. My expertise spans both front-end and back-end technologies, and I'm always eager to expand my skill set.
 
-- 🔭 Currently developing: [Chat with PDF](https://github.com/aaqifshafi/chat-with-pdf)
+- 🔭 Currently developing: [Devlane](https://github.com/aaqifshafi/devlane)
 - 🌱 Learning: DevOps methodologies and practices
 - 💬 Open to discussions on: Web3 technologies and AI
 - ⚡ Coding philosophy: Tabs over spaces
