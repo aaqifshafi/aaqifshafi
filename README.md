@@ -6,7 +6,7 @@
          width="45" />
 </h1>
 
-<div align="center">Full Stack Software Developer | Continuous Learner | Problem Solver</div>
+<div align="center">Software Engineer | Continuous Learner | Problem Solver</div>
 
 ---
 
