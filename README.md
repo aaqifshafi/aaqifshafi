@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm a dedicated Full Stack Software Developer with a passion for creating efficient, scalable, and user-friendly applications. My expertise spans both front-end and back-end technologies, and I'm always eager to expand my skill set.
+I'm a dedicated Software Engineer with a passion for creating efficient, scalable, and user-friendly applications. My expertise spans both front-end and back-end technologies, and I'm always eager to expand my skill set.
 
 - 🔭 Currently developing: [Devlane](https://github.com/aaqifshafi/devlane)
 - 🌱 Learning: DevOps methodologies and practices
