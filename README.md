@@ -14,7 +14,7 @@
 
 I'm a dedicated Software Engineer with a passion for creating efficient, scalable, and user-friendly applications. My expertise spans both front-end and back-end technologies, and I'm always eager to expand my skill set.
 
-- 🔭 Currently developing: [Devlane](https://github.com/aaqifshafi/devlane)
+- 🔭 Currently developing: [Gistr](https://gistr.so/)
 - 🌱 Learning: DevOps methodologies and practices
 - 💬 Open to discussions on: Web3 technologies and AI
 - ⚡ Coding philosophy: Tabs over spaces
@@ -24,10 +24,10 @@ I'm a dedicated Software Engineer with a passion for creating efficient, scalabl
 ## Technical Proficiencies
 
 ### Front-End
-React | Bootstrap | JavaScript | TypeScript | HTML5 | CSS3 | Sass
+React | Next js | TypeScript | Vite | Sass
 
 ### Back-End
-Node.js | PHP | Python | C++ | Java | MySQL
+Node.js | PHP | Python | C++ | Java | MySQL | Nest js
 
 ### DevOps & Tools
 Git | AWS | Linux | Bash | XAMPP
