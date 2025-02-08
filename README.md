@@ -15,9 +15,8 @@
 I'm a dedicated Software Engineer with a passion for creating efficient, scalable, and user-friendly applications. My expertise spans both front-end and back-end technologies, and I'm always eager to expand my skill set.
 
 - 🔭 Currently developing: [Gistr](https://gistr.so/)
-- 🌱 Learning: DevOps methodologies and practices
+- 🌱 Learning: Exploring Rust
 - 💬 Open to discussions on: Web3 technologies and AI
-- ⚡ Coding philosophy: Tabs over spaces
 
 ---
 
@@ -27,13 +26,13 @@ I'm a dedicated Software Engineer with a passion for creating efficient, scalabl
 React | Next js | TypeScript | Vite | Sass
 
 ### Back-End
-Node.js | PHP | Python | C++ | Java | MySQL | Nest js
+Node.js | Express | Nest js | Python | Java | MySQL | MongoDB | Redis
 
 ### DevOps & Tools
 Git | AWS | Linux | Bash | XAMPP
 
 ### Design
-Figma | Adobe (Photoshop, Illustrator, XD, Premiere Pro) | WordPress | WooCommerce
+Figma | Adobe (Photoshop, Illustrator, XD, Premiere Pro)
 
 ---
 
